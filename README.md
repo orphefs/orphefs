@@ -9,8 +9,7 @@ I am an electrical engineer and data scientist with an academic mathematical and
 - Developing machine learning and computer vision applications
 - The technical lead for robotics and AI projects
 
-I am currently working on the [RoboWeldAR](https://www.youtube.com/channel/UCDXILnzQH0797RFclKYmcVQ) project.
-
+I am currently working on the [RoboWeldAR](https://www.youtube.com/channel/UCDXILnzQH0797RFclKYmcVQ) project, for which I am contributing a [software component](https://github.com/ikh-innovation/roboweldar-rose-ap) for 3D reconstruction and detection of candidate welding seams.
 
 </p>
 
