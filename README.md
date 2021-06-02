@@ -4,7 +4,7 @@
 
 Welcome to my GitHub page!
 
-I am an electrical engineer and data scientist with an academic mathematical and computational background, looking to solve interesting, research-type problems with high social impact. My educational and research background is in electrical engineering, materials science, and computer science. I have extensive experience with signal processing and algorithm development for software and hardware. Besides academia, I was previously involved in technology transfer, authored two patents, served as a data science consultant for a commercial company, and developed production-level software for indoor localization. I am currently working as a research engineer in the Innovation department of IKNOWHOW S.A., Athens, Greece. Over there I am currently:
+I am an electrical engineer and data scientist with an academic mathematical and computational background, looking to solve interesting, research-type problems with high social impact. My educational and research background is in electrical engineering, materials science, and computer science. I have extensive experience with signal processing and algorithm development for software and hardware. Besides academia, I was previously involved in technology transfer, co-authored two patents, served as a data science consultant for a commercial company, and developed production-level software for indoor localization. I am currently working as a research engineer in the Innovation department of IKNOWHOW S.A., Athens, Greece. Over there I am currently:
 
 - Developing machine learning and computer vision applications
 - The technical lead for part of our robotics and AI projects
