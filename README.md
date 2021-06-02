@@ -11,7 +11,7 @@ I am an electrical engineer and data scientist with an academic mathematical and
 
 I am currently working on the [RoboWeldAR](https://www.youtube.com/channel/UCDXILnzQH0797RFclKYmcVQ) project, for which I am coordinating and co-developing a [software component](https://github.com/ikh-innovation/roboweldar-rose-ap) for 3D reconstruction and detection of candidate welding seams.
   
-In the meantime, you can have a look at my article on [using deep conv nets for sorting and picking nuclear waste](https://orphefs.medium.com/detecting-and-sorting-nuclear-waste-using-deep-convolutional-neural-networks-3ada9b402363), my [online algorithm for computing moving averages and standard deviations](https://github.com/orphefs/notes), and some useful [coding tips and tricks](https://github.com/orphefs/notes) I picked up along the way.
+In the meantime, you can have a look at my article on [using deep conv nets for sorting and picking nuclear waste](https://orphefs.medium.com/detecting-and-sorting-nuclear-waste-using-deep-convolutional-neural-networks-3ada9b402363), my [online algorithm for computing moving averages and standard deviations](https://github.com/orphefs/rolling_statistics/blob/master/Rolling_Mean_and_Variance_of_a_Time_Series.pdf), and some useful [coding tips and tricks](https://github.com/orphefs/notes) I picked up along the way.
 
 </p>
 
