@@ -15,6 +15,13 @@ In the meantime, you can have a look at my article on [using deep conv nets for 
 
 </p>
 
+<p>
+  <b>Latest updates:</b>
+  
+Check out [my new app](https://share.streamlit.io/firegaze-ai/prototype/main/streamlit_app/streamlit_app.py) for wildfire smoke detection, powered by YOLOv5. 
+  
+</p>
+
 
 <div>
 <a href="https://www.linkedin.com/in/kypris/">
