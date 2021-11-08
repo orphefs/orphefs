@@ -9,7 +9,7 @@ I am an electrical engineer and data scientist with an academic mathematical and
 - Developing machine learning and computer vision applications
 - The technical lead for part of our robotics and AI projects
 
-Most recently, I worked on the [RoboWeldAR](https://www.youtube.com/channel/UCDXILnzQH0797RFclKYmcVQ) project, for which I coordinated and co-developed a [software component](https://github.com/ikh-innovation/roboweldar-rose-ap) for 3D reconstruction and detection of candidate welding seams.
+Most recently, I worked on the [RoboWeldAR](https://www.youtube.com/channel/UCDXILnzQH0797RFclKYmcVQ) project, for which I coordinated and co-developed a [software component](https://github.com/ikh-innovation/roboweldar-rose-ap) for 3D reconstruction and detection of candidate welding seams. [Here](https://www.youtube.com/watch?v=zPShBs7qK9s) you can find a dev tutorial for it.
   
 In the meantime, you can have a look at my article on [using deep conv nets for sorting and picking nuclear waste](https://orphefs.medium.com/detecting-and-sorting-nuclear-waste-using-deep-convolutional-neural-networks-3ada9b402363), my [online algorithm for computing moving averages and standard deviations](https://github.com/orphefs/rolling_statistics/blob/master/Rolling_Mean_and_Variance_of_a_Time_Series.pdf), and some useful [coding tips and tricks](https://github.com/orphefs/notes) I picked up along the way.
 
