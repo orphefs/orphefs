@@ -21,6 +21,12 @@ In the meantime, you can have a look at my article on [using deep conv nets for 
 Check out [my new app](https://share.streamlit.io/firegaze-ai/prototype/main/streamlit_app/streamlit_app.py) for wildfire smoke detection, powered by YOLOv5. 
   
 </p>
+<b>My list of buzzwords:</b>
+neural networks, data scientist, artificial intelligence, deep learning, data science, python, scikit-learn, scipy, numpy, pandas, anaconda, jupyter notebook, keras, conda, venv, MATLAB, C++, Node.JS, React, React Native, databases, MongoDB, PostgreSQL, Linux, Git, Docker, unit test, acceptance test, localization, sensors, robotics, IoT, supervised learning, unsupervised learning, mathematics, linear algebra, optimization, optimisation, decision trees, random forests, convolutional neural networks, signal processing, algorithms
+<p>
+
+  
+</p>
 
 
 <div>
