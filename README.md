@@ -46,6 +46,8 @@ neural networks, data scientist, artificial intelligence, deep learning, data sc
 <br/>
 <hr/>
 
- [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=orphefs&show_icons=true&count_private=true&theme=dark"/>](https://github.com/orphefs/)
+ [<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orphefs&langs_count=8&theme=dark&count_private=true&hide=jupyter%20notebook"/>](https://github.com/orphefs/)
+
+ [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=orphefs&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>](https://github.com/orphefs/)
 
 
