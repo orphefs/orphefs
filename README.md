@@ -1,4 +1,4 @@
-### Electrical Engineer and Data Scientist
+### Data Scientist | Software Engineer | Research Geek
 
 <p>
 
