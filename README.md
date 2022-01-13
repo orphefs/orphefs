@@ -18,7 +18,8 @@ In the meantime, you can have a look at my article on [using deep conv nets for 
 <p>
   <b>Latest updates:</b>
   
-Check out [my new app](https://share.streamlit.io/firegaze-ai/prototype/main/streamlit_app/streamlit_app.py) for wildfire smoke detection, powered by YOLOv5. 
+- Check out [my new app](https://share.streamlit.io/firegaze-ai/prototype/main/streamlit_app/streamlit_app.py) for wildfire smoke detection, powered by YOLOv5. 
+- Have a look at this [automated cryptocurrency trading bot](https://github.com/orphefs/cryptotrader) which uses handcrafted features and random forests for predicting whether to buy, sell, or hold a particular asset.
   
 </p>
 <b>My list of buzzwords:</b>
