@@ -1,5 +1,7 @@
 [![Contact me on Codementor](https://www.codementor.io/m-badges/okypris/im-a-cm-b.svg)](https://www.codementor.io/@okypris?refer=badge)
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/okypris/book-session.svg)](https://www.codementor.io/@okypris?refer=badge)
+
 ### Data Scientist | Software Engineer | Research Geek
 
 <p>
