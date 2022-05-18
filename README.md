@@ -2,11 +2,13 @@
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/okypris/book-session.svg)](https://www.codementor.io/@okypris?refer=badge)
 
+[<span style="color:yellow">orphefs.github.io</span>](https://orphefs.github.io/)
+
 ### Data Scientist | Software Engineer | Research Geek
 
 <p>
 
-Welcome to my GitHub page!
+Welcome to my GitHub page! 
 
 I am a software engineer and data scientist with a background in electrical engineering, physics, and computer science (CV [here](https://github.com/orphefs/orphefs.github.io/blob/master/static/data/Resume_Orfeas_Kypris_2021.pdf)). I have worked in academia and industry and I am always looking to solve interesting, research-type problems with high social and environmental impact. I have extensive experience with signal processing and algorithm development for software and hardware. Besides academia, I was previously involved in technology transfer, co-authored two patents (one on [structural health monitoring sensor](https://patentimages.storage.googleapis.com/7c/3a/5f/4f78dd9c0a3a68/WO2018060700A1.pdf), the other on [a machine learning pipeline](https://patentimages.storage.googleapis.com/fc/1b/bf/da720bffe3d8d7/AU2019371068A1.pdf)), served as a data science consultant, and developed production-level software for indoor localization at [a localization startup](https://navenio.com/). Most recently I worked as a research engineer in the Innovation department of [iKnowHow](https://www.iknowhow.com/). Over there I was:
 
