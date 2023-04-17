@@ -24,8 +24,33 @@ I am a software engineer and data scientist with a background in electrical engi
 - An article on [using deep conv nets for sorting and picking nuclear waste](https://orphefs.medium.com/detecting-and-sorting-nuclear-waste-using-deep-convolutional-neural-networks-3ada9b402363), 
 - An [online algorithm for computing moving averages and standard deviations](https://github.com/orphefs/rolling_statistics/blob/master/Rolling_Mean_and_Variance_of_a_Time_Series.pdf)
 - Some useful [coding tips and tricks](https://github.com/orphefs/notes) I picked up along the way.
-  
+
 </p>
+
+
+### Languages and Tools
+
+
+
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+
 <b>My list of buzzwords:</b>
 neural networks, data scientist, artificial intelligence, deep learning, data science, python, scikit-learn, scipy, numpy, pandas, anaconda, jupyter notebook, keras, conda, venv, MATLAB, C++, React, React Native, databases, MongoDB, PostgreSQL, Linux, Git, Docker, Kubernetes, AWS, Azure, unit test, acceptance test, localization, sensors, robotics, IoT, supervised learning, unsupervised learning, dimensionality reduction, mathematics, linear algebra, optimization, statistics, decision trees, random forests, convolutional neural networks, signal processing, algorithms
 <p>
