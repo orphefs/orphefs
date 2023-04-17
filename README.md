@@ -4,7 +4,7 @@
 
 [<span style="color:yellow">orphefs.github.io</span>](https://orphefs.github.io/)
 
-### Data Scientist | Software Engineer | Researcher
+### Software Engineer | Data Scientist | Researcher
 
 <p>
 
